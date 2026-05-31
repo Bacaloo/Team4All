@@ -2,9 +2,8 @@
 
 HvSystem ist ein Nextcloud-Modul fuer die Verwaltung von Wohnungseigentum.
 
-Dieses oeffentliche Repository ist fuer allgemeine Informationen und spaetere
-oeffentliche Bereitstellungen vorgesehen. Der aktuelle Entwicklungs- und
-Referenzstand wird privat in `HvSystemDevelopment` gepflegt.
+Dieses öffentliche Repository ist fuer allgemeine Informationen und spätere
+öffentliche Bereitstellungen vorgesehen.
 
 ## Lizenz
 
