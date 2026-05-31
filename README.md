@@ -1,6 +1,6 @@
-# HvSystem
+# Team4All
 
-HvSystem ist ein Nextcloud-Modul für die Verwaltung von Wohnungseigentum.
+HvSystem ist ein Nextcloud-Modul für die Zusammenarbeit im Unternehmen.
 
 Dieses öffentliche Repository ist für allgemeine Informationen und spätere
 öffentliche Bereitstellungen vorgesehen.
