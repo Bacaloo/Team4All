@@ -7,6 +7,6 @@ Dieses öffentliche Repository ist für allgemeine Informationen und spätere
 
 ## Lizenz
 
-HvSystem steht unter der GNU Affero General Public License v3.0 oder spaeter.
+HvSystem steht unter der GNU Affero General Public License v3.0 oder später.
 
 SPDX-License-Identifier: AGPL-3.0-or-later
